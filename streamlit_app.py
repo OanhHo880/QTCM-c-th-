@@ -89,7 +89,7 @@ else:
 
     # --- CHỈNH KÍCH THƯỚC KHUNG ---
     # width=None và dùng CSS để ép chiều rộng 100%
-   components.iframe(
+    components.iframe(
     power_bi_link,
     width=1600,
     height=900,
