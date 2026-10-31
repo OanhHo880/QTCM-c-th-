@@ -91,7 +91,7 @@ else:
     # width=None và dùng CSS để ép chiều rộng 100%
     components.iframe(
     power_bi_link,
-    width=1600,
-    height=900,
+    width=2000,
+    height=1200,
     scrolling=True
 )
