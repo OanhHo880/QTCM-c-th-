@@ -2,6 +2,7 @@ import streamlit as st
 import streamlit.components.v1 as components
 
 # 1. DANH SÁCH NHÂN VIÊN (Bạn có thể thêm tiếp vào đây)
+USERS = {
     "PC-00645": "phuongchau",
     "PC-00245": "phuongchau",
     "PC-00950": "phuongchau",
