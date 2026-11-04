@@ -1,6 +1,6 @@
 import streamlit as st
 import streamlit.components.v1 as components
-
+st.set_page_config(layout="wide", page_title="Báo cáo Điều dưỡng")
 # 1. DANH SÁCH NHÂN VIÊN (Bạn có thể thêm tiếp vào đây)
 USERS = {
     "PC-00645": "phuongchau",
